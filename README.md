@@ -19,7 +19,7 @@ Coba aplikasi ini di sini: [CLICK_HERE](https://al-bai.github.io/Tarot-Arknighst
 
 ## 📂 **Lihat Repositori**  
 Detail lebih lanjut tentang proyek ini bisa dilihat di GitHub:  
-[https://github.com/Al-bai/my-skills.git](https://github.com/Al-bai/my-skills.git)  
+[CLICK_HERE](https://github.com/Al-bai/Tarot-Arknighst-.git)  
 
 ---
 
